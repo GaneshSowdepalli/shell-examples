@@ -1,5 +1,4 @@
-#test
-#
+#test#
 #addition
 x=a+b
 
@@ -10,3 +9,6 @@ x=a-b
 x=a/b
 
 #percentage
+
+#multipication
+x=a*b
